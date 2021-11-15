@@ -31,7 +31,7 @@ die die Zuordnung und die Übertragung von Objekten zu Datenbankeinträgen verei
 ![](.doc_images/35810962.png)
 ![](.doc_images/e043fc9a.png)
 
-##Repository
+## Repository
 Nützliche Funktionen
 ![](.doc_images/003b35c6.png)
 
@@ -41,3 +41,24 @@ Testing:
 ![](.doc_images/4029ec49.png)
 ![](.doc_images/67b08f2f.png)
 ![](.doc_images/00665ae1.png)
+
+
+## Embedded
+![](.doc_images/78569634.png)
+![](.doc_images/2c95a406.png)
+
+Bestehende Spalten überschreiben
+![](.doc_images/f075d60d.png)
+
+Test:
+![](.doc_images/ec12765e.png)
+![](.doc_images/f82e32f0.png)
+
+## Creating JPA Repository
+
+![](.doc_images/70b9864e.png)
+
+![](.doc_images/2d81a3ee.png)
+
+![](.doc_images/758bb6c0.png)
+
