@@ -80,4 +80,22 @@ class StudentRepositoryTest {
         System.out.println("students =" + students);
 
     }
+
+    @Test
+    public void printgetStudentByEmailAddress() {
+        Student  student =
+                studentRepository.getStudentByEmailAddress(
+                        "frstark@tsn.at");
+
+        System.out.println("student =" +student);
+    }
+
+    @Test
+    public void updateStudentByNameByEmailIdTest() {
+        studentRepository.updateStudentByEmailId(
+                "Frank-Christian",
+                "frstark@tsn.at"
+        );
+
+    }
 }
